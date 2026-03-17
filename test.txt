@@ -10,3 +10,4 @@ Text file on PROD branch.
 Added text in feature/two branch.
 
 Added text in feature/one branch.
+Added text in feature/one branch, after conflict resolution.
