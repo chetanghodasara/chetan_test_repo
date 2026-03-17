@@ -12,4 +12,6 @@ Added text in feature/twoTwo branch branch. -- appended in feature/three branch.
 Added text in feature/one branch.
 Added text in feature/one branch, after conflict resolution.
 
-Added text in feature/three branch.
+Added text in feature/three branch. -- appended in feature/four branch.
+
+Added text in feature/four branch.
