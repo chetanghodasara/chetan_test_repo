@@ -11,3 +11,5 @@ Added text in feature/two branch.
 
 Added text in feature/one branch.
 Added text in feature/one branch, after conflict resolution.
+
+Added text in feature/three branch.
